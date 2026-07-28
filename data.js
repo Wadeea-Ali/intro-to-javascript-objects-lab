@@ -165,8 +165,15 @@ Exercise 9
 
 Solve Exercise 9 here:
 */
+/*
 pokemon.forEach(poke => {
     if(poke.starter){
         console.log(poke.name)
     }
 })
+
+/*/
+
+//tchPokemon(pokemonObj){
+    Gamepad.pa
+//
